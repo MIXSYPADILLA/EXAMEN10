@@ -25,18 +25,4 @@ Recrea el siguiente [mockup](img/barbershop-desktop.png) de una entrada de blog 
 
 Recuerda que la página web deberá ser responsiva. Toma como referencia el siguiente [mockup](img/barbershop-mobile.png) con la versión móvil.
 
-### Criterios de evaluación:
-
-- Uso de dependencias específicas para la página web
-- Utilización de BEM en clases CSS
-- Buenas prácticas y uso de identado correcto
-- Uso de media queries
-- Uso de GIT para versionar el desafío
-- Uso de Github Pages
-- Creación del repositorio con el desafío
-- Creación de README.md con link de página web subida a Github Pages
-- Entrega del desafío a través de la plataforma desafío
-
-Luego debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
-
-Mucha suerte!
+https://mixsypadilla.github.io/EXAMEN10/
