@@ -1,0 +1,85 @@
+.navbar{
+	background-color: black;
+	height: 90px;
+}
+#logo{
+	margin-top: 25px;
+	margin-left: 130px;
+	width: 140px; 
+	height: 50px;
+}
+
+#nos{
+   color: white;
+   padding-right: 0px;
+}
+
+#trab{
+   color: white;
+   padding-right: 0px;
+}
+
+#blog{
+  color: white;
+  padding-right: 0px;
+}
+
+#hora{
+  color: white;
+  padding-right: 0px;
+}
+
+#cont{
+  color: white;
+  padding-right: 100px;
+}
+#foto1{
+	position: relative;
+	width: 100%;
+}
+#titulo{
+  font-family: 'Playfair Display', serif;
+	position: absolute; top: 400px;
+	color: white;
+	margin-left: 340px;
+  font-size: 80px;
+  margin-left: 240px;  
+} 
+#angle{
+  position: absolute; top: 700px;
+  margin-left: 35%;
+  color: white;
+
+}
+    
+#calendario{
+  margin-top: 35px;
+  float: left;
+  padding-right: 10px;
+  margin-left: 150px;
+}
+#texto1{
+  padding-top: 30px;
+  font-family: 'Playfair Display', serif;
+  padding-left: 30px;
+	color: #A4A4A4;
+  
+}
+.texto2{
+	color: #A4A4A4;
+  padding: 0;
+}
+
+@media (min-width: 992px){ 
+
+.texto2{
+    padding: 10px 150px 0 150px;
+    color: #A4A4A4;
+}
+#nombre_naomi{
+     
+}
+#naomi{
+  width: 20%;
+  border-radius: 50%;
+}
